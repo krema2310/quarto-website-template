@@ -1,5 +1,12 @@
 ---
 title: "Sample Quarto Website"
+
+# The following entry enables the listing of blog posts
+
+listing:
+  contents:
+    - "posts/*/index.qmd"
+  categories: true
 ---
 
-Setting a quarto website, publishing it using github-pages and setting up github actions is unnecessarily tedious tasks. This template repository makes it easier to setup one.
+This is a sample quarto website listing all the blog posts.
