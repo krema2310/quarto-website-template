@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Sample Quarto Website"
+  title: "Testing Website"
   navbar:
     left:
       - href: index.qmd
