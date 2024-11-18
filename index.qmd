@@ -1,0 +1,5 @@
+---
+title: "Sample Quarto Website"
+---
+
+Setting a quarto website, publishing it using github-pages and setting up github actions is unnecessarily tedious tasks. This template repository makes it easier to setup one.
